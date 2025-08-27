@@ -10,4 +10,3 @@ The main purpose is to improve problem-solving skills and prepare for coding int
 - Baekjoon
 - CodeSignal
 
-## Folder Structure
